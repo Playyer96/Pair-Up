@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MemoryGame
+namespace PairUp
 {
     public static class EventManager
     {

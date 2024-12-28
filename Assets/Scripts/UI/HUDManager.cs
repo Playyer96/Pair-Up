@@ -4,9 +4,9 @@ using UnityEngine.UI;
 using TMPro;
 using DG.Tweening;
 
-namespace MemoryGame
+namespace PairUp.UI
 {
-    public class UIManager : MonoBehaviour
+    public class HUDManager : MonoBehaviour
     {
         [SerializeField] private TextMeshProUGUI levelText;
         [SerializeField] private TextMeshProUGUI winLoseText;

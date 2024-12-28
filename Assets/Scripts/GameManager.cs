@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace MemoryGame
+namespace PairUp
 {
     public class GameManager : MonoBehaviour
     {

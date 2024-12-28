@@ -4,7 +4,7 @@ using DG.Tweening;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace MemoryGame
+namespace PairUp
 {
     public class CardsController : MonoBehaviour
     {
